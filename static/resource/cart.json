@@ -1,0 +1,30 @@
+{
+  "status": 0,
+  "message": "success",
+  "icon": "/static/font/fonts/icon.svg",
+  "result": [{
+      "name": "喵星人",
+      "gifts": "萌萌",
+      "price": 19,
+      "count": 2,
+      "amount": 38,
+      "imgPic": "static/img/test.jpg"
+    },
+    {
+      "name": "大白",
+      "gifts": "蒂尼",
+      "price": 20,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "static/img/test.jpg"
+    },
+    {
+      "name": "小白",
+      "gifts": "蒂尼1",
+      "price": 222,
+      "count": 111,
+      "amount": 220,
+      "imgPic": "static/img/test.jpg"
+    }
+  ]
+}
