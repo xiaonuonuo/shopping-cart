@@ -1,5 +1,5 @@
 # shopping-cart-project
-A Vue.js project
+
 > 通过vue的组件化构建一个简易购物车Demo
 
 ## Build Setup
